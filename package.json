@@ -28,6 +28,7 @@
     "url": "git://github.com/bahmutov/2048.git"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "grunt",
+    "deploy": "grunt gh-pages"
   }
 }
